@@ -1,0 +1,13 @@
+.jumbotron {
+	background: linear-gradient(to bottom, #8e0e00bb, #1f1c18a6),
+		url("https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.jumbotron .container {
+	background-color: rgba(255, 255, 255, 0.788);
+	box-shadow: 2px 4px 5px;
+	padding-bottom: 10px;
+}
